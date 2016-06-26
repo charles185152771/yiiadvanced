@@ -1,6 +1,7 @@
 本项目是基于 YII2.0高级模板的一个YII2 RBAC的基本的例子，是用yii2-admin插件的RBAC，下面的提供相关学习的网址，如果有什么不明白的可以自行参考下面的教程学习。
-1.导入数据库文件，在项目根目录下面的   yiiadvanced-rbac.sql
-2.打下面的网址即可以看到相关页面和操作了。
+1.修改数据库用户密码是在common\config\main-local.php里面
+2.导入数据库文件，在项目根目录下面的   yiiadvanced-rbac.sql
+3.打下面的网址即可以看到相关页面和操作了。
 路由界面  http://localhost/advanced/backend/web/admin/route
 权限界面 http://localhost/yiiadvanced/backend/web/admin/permission/index
 角色列表页面  http://localhost/yiiadvanced/backend/web/admin/role/index
